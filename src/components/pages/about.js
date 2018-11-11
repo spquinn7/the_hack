@@ -56,11 +56,11 @@ class AboutPage extends React.Component{
             dialogBody:
             <p style={{marginTop:0}}>
                <div style={{fontFamily: 'Georgia'}}>Location:<br/></div>
-               319B Student Union, University of Massachusetts Amherst
+               102 Bartlett Hall, University of Massachusetts Amherst
 
                <div style={{fontFamily: 'Georgia'}}><br/>Hours:<br/></div>
-               M - T 10am - 4pm
-               F  10am - 2pm
+               M - T 11am - 4pm
+               
 
                <div style={{fontFamily: 'Georgia'}}><br/>Contact:<br/></div>
                <div>
